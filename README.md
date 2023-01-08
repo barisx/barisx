@@ -52,6 +52,11 @@
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
+```text
+JavaScript          4 hrs 27 mins   ███████████████░░░░░░░░░░   59.98 %
+Other               1 hr 30 mins    █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+```
+
 <!--END_SECTION:waka-->
 <!---
 barisx/barisx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
