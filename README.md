@@ -21,7 +21,7 @@
 - 💞️ I’m looking to collaborate on discord. barisx#4403
 - 📫 How to reach me barissenyerli@gmail.com
 
-**languages and tools:**  
+🔥 **languages and tools:**  
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
