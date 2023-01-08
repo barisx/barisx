@@ -59,7 +59,7 @@ Other               1 hr 30 mins    █████░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username={barisx}&theme=blue-green)
+![barisx top languages](https://github-readme-stats.vercel.app/api/top-langs/?username={barisx}&theme=blue-green)
 
 <!---
 barisx/barisx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
