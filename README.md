@@ -53,7 +53,7 @@
   <!--  #03FDB3 -->
   <!--  #74FF93 -->
 
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-03FDB3?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-03FDB3?style=flat-square&logo=google-cloud&logoColor=blue" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-74FF93?style=flat-square&logo=firebase&logoColor=orange" />
 
 </p>
