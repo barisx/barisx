@@ -49,8 +49,15 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-43853d?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
+  <!--  #236DB33F -->
+  <!--  #506DB33F -->
+  <!--  #906DB33F -->
+
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-506DB33F?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-906DB33F?style=for-the-badge&logo=firebase&logoColor=orange" />
 
 </p>
+
 
 📊 **this week i spent my time on:**
 
