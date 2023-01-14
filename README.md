@@ -10,10 +10,7 @@
   <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 
-
-
 ![](https://visitor-badge.glitch.me/badge?page_id=barisx.barisx)
-
 
 - 👋 Hi, I’m @barisx
 - 👀 I’m interested in full stack development.
@@ -21,7 +18,7 @@
 - 💞️ I’m looking to collaborate on discord. barisx#4403
 - 📫 How to reach me barissenyerli@gmail.com
 
-🔥 **languages and tools:**  
+🔥 **languages and tools:**
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -32,7 +29,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" /> <!--  #311C87 -->
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%3615CC.svg?style=flat-square&logo=flutter&logoColor=white" />  
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-3615CC.svg?style=flat-square&logo=flutter&logoColor=white" />  
   <!--  #236DB33F -->
   <!--  #3615CC -->
   <!--  #430098 -->
@@ -56,6 +53,7 @@
 </p>
 
 📊 **this week i spent my time on:**
+
 <!--START_SECTION:waka-->
 
 ```text
