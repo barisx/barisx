@@ -48,13 +48,13 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-43853d?style=flat-square&logo=Flask&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
-  <!--  #236DB33F -->
-  <!--  #506DB33F -->
-  <!--  #906DB33F -->
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-03DDB3.svg?style=flat-square&logo=spring&logoColor=white" />
+  <!--  #03DDB3 -->
+  <!--  #03FDB3 -->
+  <!--  #74FF93 -->
 
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%506DB33F?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%906DB33F?style=flat-square&logo=firebase&logoColor=orange" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-03FDB3?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-74FF93?style=flat-square&logo=firebase&logoColor=orange" />
 
 </p>
 
