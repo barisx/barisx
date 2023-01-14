@@ -48,6 +48,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-43853d?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%236DB33F.svg?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
 📊 **this week i spent my time on:**
