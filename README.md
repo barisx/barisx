@@ -54,7 +54,7 @@
   <!--  #906DB33F -->
 
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%506DB33F?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%906DB33F?style=flat-square&logo=firebase&logoColor=orange" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%906DB33F?style=flat-square&logo=firebase&logoColor=orange" />
 
 </p>
 
