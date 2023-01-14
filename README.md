@@ -53,11 +53,10 @@
   <!--  #506DB33F -->
   <!--  #906DB33F -->
 
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-506DB33F?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-906DB33F?style=for-the-badge&logo=firebase&logoColor=orange" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-%506DB33F?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%906DB33F?style=flat-square&logo=firebase&logoColor=orange" />
 
 </p>
-
 
 📊 **this week i spent my time on:**
 
