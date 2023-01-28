@@ -63,9 +63,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       11 hrs 48 mins  ██████████▓░░░░░░░░░░░░░░   43.02 %
-Dart             10 hrs 47 mins  █████████▓░░░░░░░░░░░░░░░   39.32 %
-Other            4 hrs           ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+JavaScript       23 hrs 41 mins  ███████████████░░░░░░░░░░   59.34 %
+Dart             11 hrs 6 mins   ███████░░░░░░░░░░░░░░░░░░   27.81 %
+Other            4 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
 ```
 
 <!--END_SECTION:waka-->
