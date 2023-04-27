@@ -10,7 +10,7 @@
   <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=barisx.barisx)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=barisx.barisx) -->
 
 - 👋 Hi, I’m @barisx
 - 👀 I’m interested in full stack development.
