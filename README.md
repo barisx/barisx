@@ -14,7 +14,7 @@
 
 - 👋 Hi, I’m @barisx
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning golang.
+- 🌱 I’m currently learning rust.
 - 💞️ I’m looking to collaborate on discord. barisx#4403
 - 📫 How to reach me barissenyerli@gmail.com
 
@@ -67,6 +67,8 @@ JavaScript   1 hr 34 mins    █████████████████
 Bash         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.49 %
 Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
+
+[![reimaginedreadme](https://myreadme.vercel.app/api/embed/barisx?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/barisx/barisx)
 
 <!--END_SECTION:waka-->
 
