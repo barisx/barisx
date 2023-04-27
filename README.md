@@ -68,8 +68,6 @@ Bash         11 mins         ██▓░░░░░░░░░░░░░░
 Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
-[![reimaginedreadme](https://myreadme.vercel.app/api/embed/barisx?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/barisx/barisx)
-
 <!--END_SECTION:waka-->
 
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=barisx&theme=blue-green)](https://github.com/barisx) -->
