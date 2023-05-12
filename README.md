@@ -52,6 +52,7 @@
   <img alt="Spring" src="https://img.shields.io/badge/Spring-%03DDB3.svg?style=flat-square&logo=spring&logoColor=black" />
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" />
   <img alt="AWS DynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white" />
+<img alt="Ant-Design" src="https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=ant-design&logoColor=white" />
   <!--  #03DDB3 -->
   <!--  #03FDB3 -->
   <!--  #74FF93 -->
