@@ -50,6 +50,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-43853d?style=flat-square&logo=Flask&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-%03DDB3.svg?style=flat-square&logo=spring&logoColor=black" />
+  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <!--  #03DDB3 -->
   <!--  #03FDB3 -->
   <!--  #74FF93 -->
