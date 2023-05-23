@@ -56,7 +56,6 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37" /><img alt="Electron.js" src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=Electron&logoColor=white" /><img alt="Jinja" src="https://img.shields.io/badge/jinja-white.svg?style=flat-square&logo=jinja&logoColor=black" /><img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" /><img alt="Strapi" src="https://img.shields.io/badge/strapi-2E7EEA.svg?style=flat-square&logo=strapi&logoColor=white" />
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img alt="Docker"src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" />
   <!--  #03DDB3 -->
   <!--  #03FDB3 -->
   <!--  #74FF93 -->
