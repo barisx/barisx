@@ -1,8 +1,8 @@
-<a href="https://www.linkedin.com/in/barisx/">
+<a href="https://linkedin.barisx.com/">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.medium.com/@barisx">
+<a href="https://medium.barisx.com/">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
