@@ -12,6 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=barisx)
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=barisx.barisx) -->
+https://www.codewars.com/users/barisx/badges/micro
 
 - 👋 Hi, I’m @barisx
 - 👀 I’m interested in full stack development.
