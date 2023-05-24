@@ -1,3 +1,4 @@
+[https://www.codewars.com/users/barisx/badges/micro](https://www.codewars.com/users/barisx/badges/large)
 <a href="https://linkedin.barisx.com/">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -12,7 +13,7 @@
 
 ![](https://komarev.com/ghpvc/?username=barisx)
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=barisx.barisx) -->
-<img alt="CodeWars" src="https://www.codewars.com/users/barisx/badges/micro">
+
 
 - 👋 Hi, I’m @barisx
 - 👀 I’m interested in full stack development.
