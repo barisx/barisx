@@ -18,7 +18,7 @@
 - 👋 Hi, I’m @barisx
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning rust.
-- 💞️ I’m looking to collaborate on discord. barisx#4403
+- 💞️ I’m looking to collaborate on discord. barisx#9999
 - 📫 How to reach me barissenyerli@gmail.com
 
 🔥 **languages and tools:**
