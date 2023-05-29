@@ -64,7 +64,7 @@
 
   <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-%03FDB3?style=flat-square&logo=google-cloud&logoColor=blue" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-74FF93?style=flat-square&logo=firebase&logoColor=orange" />
-<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+<img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 
 </p>
 
