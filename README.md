@@ -64,6 +64,7 @@
 
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-74FF93?style=flat-square&logo=firebase&logoColor=orange" />
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 
 </p>
 
