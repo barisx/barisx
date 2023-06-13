@@ -75,6 +75,7 @@
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
 <img alt="DigitalOcean" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white" />
 <img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" />
+<img alt="Git" src="	https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 📊 **this week i spent my time on:**
