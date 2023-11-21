@@ -81,7 +81,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Dart         13 hrs 26 mins  ████████████████▒░░░░░░░░   65.62 %
+JavaScript   4 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
+HTML         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Other        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+XML          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
 ```
 
 <!--END_SECTION:waka-->
