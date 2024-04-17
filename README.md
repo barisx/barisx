@@ -97,5 +97,4 @@ barisx/barisx is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-.. image:: https://wakatime.com/share/@barisx/2cc00765-61cb-4da0-a761-9c48af6c0aa1.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@barisx/2cc00765-61cb-4da0-a761-9c48af6c0aa1.png" /></a>
