@@ -11,7 +11,8 @@
   <img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 </a>
 
-<figure><embed src="https://wakatime.com/share/@barisx/8fb3cde8-7a08-4e62-afe6-617a4fca5031.svg"></embed></figure>
+.. image:: https://wakatime.com/share/@barisx/07912e3d-ed3d-4ba9-b489-4e5349e31635.png
+    :target: https://wakatime.com/
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=barisx.barisx) -->
 
 
