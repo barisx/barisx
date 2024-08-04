@@ -21,7 +21,7 @@
 - 💞️ I’m looking to collaborate on discord. `barisx.com`
 - 📫 How to reach me barissenyerli@gmail.com
 
-<a href="https://wakatime.com/@barisx"><img src="https://wakatime.com/insights/animated/days.gif" /></a>
+![](https://wakatime.com/insights/animated/days.gif)
 
 🔥 **languages and tools:**
 
