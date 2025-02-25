@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        11 hrs 15 mins  ██████████████░░░░░░░░░░░   56.65 %
-JavaScript   6 hrs 8 mins    ███████▓░░░░░░░░░░░░░░░░░   30.93 %
-Docker       1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
-TypeScript   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-PowerShell   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Other        11 hrs 17 mins  ███████████████▒░░░░░░░░░   61.06 %
+JavaScript   5 hrs 40 mins   ███████▓░░░░░░░░░░░░░░░░░   30.72 %
+Docker       34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+TypeScript   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+PowerShell   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
