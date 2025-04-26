@@ -83,7 +83,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   10 hrs 45 mins  █████████████████████████   100.00 %
+Other        10 hrs 45 mins  █████████████████████████   99.68 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+PowerShell   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
