@@ -16,7 +16,7 @@
 
 
 - 👋 Hi, I’m @barisx
-- 👀 I’m interested in full stack development.
+- 👀 I’m interested in AI development.
 - 🌱 I’m currently learning rust.
 - 💞️ I’m looking to collaborate on discord. `barisx.com`
 - 📫 How to reach me barissenyerli@gmail.com
