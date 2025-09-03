@@ -83,7 +83,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   6 hrs           █████████████████████████   100.00 %
+Other        6 hrs           █████████████████████████   99.90 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
