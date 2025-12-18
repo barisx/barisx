@@ -83,11 +83,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python            1 hr 23 mins    █████████░░░░░░░░░░░░░░░░   36.24 %
-Markdown          1 hr 17 mins    ████████▒░░░░░░░░░░░░░░░░   33.66 %
-JavaScript        1 hr 7 mins     ███████▒░░░░░░░░░░░░░░░░░   29.10 %
-XML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+JavaScript   58 mins         ████████████▓░░░░░░░░░░░░   50.90 %
+Python       48 mins         ██████████▓░░░░░░░░░░░░░░   42.16 %
+Markdown     8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
 ```
 
 <!--END_SECTION:waka-->
