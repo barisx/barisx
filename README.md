@@ -83,9 +83,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   58 mins         ████████████▓░░░░░░░░░░░░   50.90 %
-Python       48 mins         ██████████▓░░░░░░░░░░░░░░   42.16 %
-Markdown     8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+JavaScript   48 mins         ████████████▓░░░░░░░░░░░░   50.10 %
+Python       48 mins         ████████████▒░░░░░░░░░░░░   49.90 %
 ```
 
 <!--END_SECTION:waka-->
