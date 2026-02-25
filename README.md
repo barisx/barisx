@@ -83,10 +83,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          43 mins               █████████████████▒░░░░░░░   69.23 %
-TypeScript        10 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-Java Properties   8 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
-XML               0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Java Properties   8 mins                █████████████▓░░░░░░░░░░░   54.81 %
+Markdown          6 mins                ███████████░░░░░░░░░░░░░░   43.91 %
+XML               0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
