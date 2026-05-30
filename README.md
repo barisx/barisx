@@ -83,11 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other             52 mins               ██████████▓░░░░░░░░░░░░░░   42.57 %
-TypeScript        33 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.00 %
-Java              17 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-Markdown          12 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-Java Properties   7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
